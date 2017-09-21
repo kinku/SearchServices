@@ -2,6 +2,7 @@
 
 # Simple app to upload and retrieve information
 //First you need is to set up this project to google firebase
+
 https://firebase.google.com/
 
 //After you added the google-service.json file into project you must to add these dependencies:
