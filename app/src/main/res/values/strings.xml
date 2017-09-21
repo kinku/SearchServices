@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Search Services</string>
+    <string-array name="activities_domain">
+        <item></item>
+        <item>Marketing</item>
+        <item>Web design</item>
+        <item>Juridic</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
