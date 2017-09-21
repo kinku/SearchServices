@@ -1,7 +1,7 @@
 # SearchServices
 
 # Simple android app to upload and retrieve information
-// First you need is to set up this project to google firebase
+// First you need to set up this project to google firebase
 
 https://firebase.google.com/
 
